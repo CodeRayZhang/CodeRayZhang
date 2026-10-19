@@ -6,6 +6,14 @@
 
 ## 正在打磨
 
+### [RayWork Studio — AI 内容交付工作台](https://github.com/CodeRayZhang/raywork-studio)
+
+面向小型内容工作室，将品牌资料整理为可批注、可逐项审核的六模块内容包，支持局部重写、版本记录与审核后导出。Python · FastAPI · SQLite。
+
+[上手指南](https://github.com/CodeRayZhang/raywork-studio#快速开始) · [预览版本](https://github.com/CodeRayZhang/raywork-studio/releases/tag/v0.1.0) · [产品路线](https://github.com/CodeRayZhang/raywork-studio/blob/main/docs/ROADMAP.md)
+
+当前为 v0.1 预览版：默认使用本地模板演示，真实模型接口需配置后实测。下一步用真实项目验证改稿时间与交付质量。
+
 ### [CineMatch — 电影发现与个性化推荐](https://github.com/CodeRayZhang/cinematch-recommender)
 
 Vue 3 + TypeScript + Spring Boot 4 + Java 21。包含电影发现、私人片单、推荐实验室，以及可训练、可回退的 ALS 混合推荐。
