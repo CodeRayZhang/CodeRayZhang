@@ -6,26 +6,26 @@
 
 | 仓库 | 内容 |
 |---|---|
-| [Movie_Recommend](https://github.com/CodeRayZhang/Movie_Recommend) | 旧版 Spark 电影推荐；现代重写见 CineMatch |
-| [News_Spark](https://github.com/CodeRayZhang/News_Spark) | Spark 新闻分析与实时可视化 |
-| [e3mall](https://github.com/CodeRayZhang/e3mall) | Java 电商学习项目 |
-| [Cloud-Note](https://github.com/CodeRayZhang/Cloud-Note) | Java 云笔记学习项目 |
-| [BigData_AnalysisPage](https://github.com/CodeRayZhang/BigData_AnalysisPage) | 大数据可视化页面；注意原模板授权 |
-| [BOS](https://github.com/CodeRayZhang/BOS) | 物流管理学习项目 |
-| [MapReduce_ItemCF](https://github.com/CodeRayZhang/MapReduce_ItemCF) | ItemCF 推荐学习实现 |
-| [Deep-Learning-Papers-Reading-Roadmap](https://github.com/CodeRayZhang/Deep-Learning-Papers-Reading-Roadmap) | 深度学习论文路线图整理；参考上游 floodsung/Deep-Learning-Papers-Reading-Roadmap |
-| [Machine-Learning-Papers](https://github.com/CodeRayZhang/Machine-Learning-Papers) | 机器学习论文资料 |
-| [Reinforcement-Learning](https://github.com/CodeRayZhang/Reinforcement-Learning) | 强化学习资料 |
-| [ray](https://github.com/CodeRayZhang/ray) | 上游 Ray 的历史 fork，非本账号原创框架 |
+| [Movie_Recommend](https://github.com/RayXBuilds/Movie_Recommend) | 旧版 Spark 电影推荐；现代重写见 CineMatch |
+| [News_Spark](https://github.com/RayXBuilds/News_Spark) | Spark 新闻分析与实时可视化 |
+| [e3mall](https://github.com/RayXBuilds/e3mall) | Java 电商学习项目 |
+| [Cloud-Note](https://github.com/RayXBuilds/Cloud-Note) | Java 云笔记学习项目 |
+| [BigData_AnalysisPage](https://github.com/RayXBuilds/BigData_AnalysisPage) | 大数据可视化页面；注意原模板授权 |
+| [BOS](https://github.com/RayXBuilds/BOS) | 物流管理学习项目 |
+| [MapReduce_ItemCF](https://github.com/RayXBuilds/MapReduce_ItemCF) | ItemCF 推荐学习实现 |
+| [Deep-Learning-Papers-Reading-Roadmap](https://github.com/RayXBuilds/Deep-Learning-Papers-Reading-Roadmap) | 深度学习论文路线图整理；参考上游 floodsung/Deep-Learning-Papers-Reading-Roadmap |
+| [Machine-Learning-Papers](https://github.com/RayXBuilds/Machine-Learning-Papers) | 机器学习论文资料 |
+| [Reinforcement-Learning](https://github.com/RayXBuilds/Reinforcement-Learning) | 强化学习资料 |
+| [ray](https://github.com/RayXBuilds/ray) | 上游 Ray 的历史 fork，非本账号原创框架 |
 
 ## 历史练习与实验
 
 这些仓库转入历史整理范围；是否已经归档，以仓库页面的 Archived 标识为准。
 
-- **Java / 服务端**：[activitiBasic](https://github.com/CodeRayZhang/activitiBasic) · [Sentinel_Provider](https://github.com/CodeRayZhang/Sentinel_Provider) · [Sentinel_Consumer](https://github.com/CodeRayZhang/Sentinel_Consumer) · [DistributedSysGuide](https://github.com/CodeRayZhang/DistributedSysGuide) · [ms-shop-parent](https://github.com/CodeRayZhang/ms-shop-parent)
-- **数据与语言练习**：[leetcode](https://github.com/CodeRayZhang/leetcode) · [go-spider](https://github.com/CodeRayZhang/go-spider) · [learngo](https://github.com/CodeRayZhang/learngo) · [Spark-Example](https://github.com/CodeRayZhang/Spark-Example) · [Scala-Example](https://github.com/CodeRayZhang/Scala-Example)
-- **桌面与移动练习**：[Chat](https://github.com/CodeRayZhang/Chat) · [Snake](https://github.com/CodeRayZhang/Snake) · [TankWar-Network](https://github.com/CodeRayZhang/TankWar-Network) · [TankWar](https://github.com/CodeRayZhang/TankWar) · [MobileSafe](https://github.com/CodeRayZhang/MobileSafe)
-- **论文资料**：[Reinforcement-Learning-Papers-at-ICML](https://github.com/CodeRayZhang/Reinforcement-Learning-Papers-at-ICML)
+- **Java / 服务端**：[activitiBasic](https://github.com/RayXBuilds/activitiBasic) · [Sentinel_Provider](https://github.com/RayXBuilds/Sentinel_Provider) · [Sentinel_Consumer](https://github.com/RayXBuilds/Sentinel_Consumer) · [DistributedSysGuide](https://github.com/RayXBuilds/DistributedSysGuide) · [ms-shop-parent](https://github.com/RayXBuilds/ms-shop-parent)
+- **数据与语言练习**：[leetcode](https://github.com/RayXBuilds/leetcode) · [go-spider](https://github.com/RayXBuilds/go-spider) · [learngo](https://github.com/RayXBuilds/learngo) · [Spark-Example](https://github.com/RayXBuilds/Spark-Example) · [Scala-Example](https://github.com/RayXBuilds/Scala-Example)
+- **桌面与移动练习**：[Chat](https://github.com/RayXBuilds/Chat) · [Snake](https://github.com/RayXBuilds/Snake) · [TankWar-Network](https://github.com/RayXBuilds/TankWar-Network) · [TankWar](https://github.com/RayXBuilds/TankWar) · [MobileSafe](https://github.com/RayXBuilds/MobileSafe)
+- **论文资料**：[Reinforcement-Learning-Papers-at-ICML](https://github.com/RayXBuilds/Reinforcement-Learning-Papers-at-ICML)
 
 ## 使用说明
 
